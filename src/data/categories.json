@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Finance",
+    "value": "finance"
+  },
+  {
+    "label": "Social",
+    "value": "social"
+  },
+  {
+    "label": "Academic",
+    "value": "academic"
+  },
+  {
+    "label": "Eshop",
+    "value": "eshop"
+  },
+  {
+    "label": "Work",
+    "value": "work"
+  },
+  {
+    "label": "Atm",
+    "value": "atm"
+  }
+]
